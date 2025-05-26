@@ -1,7 +1,7 @@
-💼 Salary Prediction Project
+# 💼 Salary Prediction Project
 This project uses machine learning to predict salaries based on various features such as education, experience, job title, and location. It demonstrates a complete data science workflow, including data preprocessing, model training, evaluation, and deployment.
 
-📊 Features
+# 📊 Features
 Data cleaning and preprocessing
 
 Exploratory data analysis (EDA)
@@ -14,7 +14,7 @@ Model evaluation (R² score, MAE, RMSE)
 
 Optional: Deployment using Streamlit or Flask
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 Python
 
 Pandas, NumPy, Matplotlib, Seaborn
